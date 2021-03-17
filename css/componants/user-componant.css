@@ -1,4 +1,8 @@
 
+.user-componant {
+    justify-content: space-between;
+}
+
 .user-componant, 
 .user-componant__column:first-child {
     display: flex;
@@ -27,3 +31,19 @@
     width: 80px;
     height: 80px;
 }
+
+ .user-componant__avatar--sm {
+    width: 60px;
+    height: 60px;
+    border-radius: 25px;
+ }
+
+ .user-componant__title--not-bold {
+     font-weight: 400;
+ }
+
+ 
+
+ .user-componant__column:last-child {
+    color: rgba(0, 0, 0, 0.5);
+ }
