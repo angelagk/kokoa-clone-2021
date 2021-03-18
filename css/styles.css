@@ -9,10 +9,12 @@
 @import "componants/nav-bar.css";
 @import "componants/screen-header.css";
 @import "componants/user-componant.css";
+@import "componants/badge.css";
 
 /* Sreens */
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 body {
     color: color: #2e363e;
