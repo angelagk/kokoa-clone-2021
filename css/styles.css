@@ -12,6 +12,7 @@
 @import "componants/user-componant.css";
 @import "componants/badge.css";
 @import "componants/icon-row.css";
+@import "componants/no-mobile.css";
 
 /* Sreens */
 @import "screens/login.css";
